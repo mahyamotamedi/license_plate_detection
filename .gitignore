@@ -1,0 +1,30 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Local datasets
+LPD_FILES/
+LPR_FILES/
+data/
+*.zip
+
+# Trained models / checkpoints
+models/
+*.pt
+*.pth
+
+# Training outputs
+logs/
+outputs/
+runs/
+
+# Temporary files
+*.tmp

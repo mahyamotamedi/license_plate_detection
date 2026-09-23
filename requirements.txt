@@ -1,0 +1,17 @@
+torch
+torchvision
+ultralytics==8.4.157
+
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+
+scikit-learn
+PyYAML
+tqdm
+
+ipykernel
+IPython
+gdown

@@ -1,0 +1,7 @@
+path: /Users/mahya/code/license_plate_detection/LPD_FILES
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names:
+  0: license_plate
